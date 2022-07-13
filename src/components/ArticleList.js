@@ -1,11 +1,14 @@
 import React from "react";
+import Article from "./Article";
 
 
-function Header () {
+function ArticleList () {
 
     return (
-        <header id="header">
-            <h1></h1>
-        </header>
+        <main>
+
+        </main>
     )
 }
+
+export default ArticleList;
